@@ -25,6 +25,7 @@ Manage Messages: メッセージの管理を行うため。
 このリポジトリをGitHubからローカルにクローンします。以下のコマンドを実行してください：
 ```bash
 git clone <リポジトリのURL>
+```
 
 ### DISCORD_TOKENの設定
 クローンしたソースコード内のDISCORD_TOKENに、Discord Developer Portalで取得したあなたのトークンを入力します。
